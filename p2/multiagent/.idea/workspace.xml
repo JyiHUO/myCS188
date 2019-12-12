@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25792667-3339-4cfe-a4ca-9827cca94a0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1TTdM0eQKbN9Sy16JQ9RsHnko8P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="pacman" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="multiagent" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pacman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pacman" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25792667-3339-4cfe-a4ca-9827cca94a0b" name="Default Changelist" comment="" />
+      <created>1573487968046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573487968046</updated>
+      <workItem from="1573487977834" duration="1772000" />
+      <workItem from="1576079732742" duration="18244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1501" y="523" width="523" height="579" key="#xdebugger.evaluate" timestamp="1576094266719">
+      <screen x="69" y="23" width="3771" height="1577" />
+    </state>
+    <state x="1501" y="523" width="523" height="579" key="#xdebugger.evaluate/69.23.3771.1577@69.23.3771.1577" timestamp="1576094266719" />
+    <state width="2630" height="240" key="GridCell.Tab.0.bottom" timestamp="1576151777849">
+      <screen x="69" y="23" width="3771" height="1577" />
+    </state>
+    <state width="2630" height="240" key="GridCell.Tab.0.bottom/69.23.3771.1577@69.23.3771.1577" timestamp="1576151777849" />
+    <state width="2630" height="240" key="GridCell.Tab.0.center" timestamp="1576151777848">
+      <screen x="69" y="23" width="3771" height="1577" />
+    </state>
+    <state width="2630" height="240" key="GridCell.Tab.0.center/69.23.3771.1577@69.23.3771.1577" timestamp="1576151777848" />
+    <state width="2630" height="240" key="GridCell.Tab.0.left" timestamp="1576151777848">
+      <screen x="69" y="23" width="3771" height="1577" />
+    </state>
+    <state width="2630" height="240" key="GridCell.Tab.0.left/69.23.3771.1577@69.23.3771.1577" timestamp="1576151777848" />
+    <state width="2630" height="240" key="GridCell.Tab.0.right" timestamp="1576151777849">
+      <screen x="69" y="23" width="3771" height="1577" />
+    </state>
+    <state width="2630" height="240" key="GridCell.Tab.0.right/69.23.3771.1577@69.23.3771.1577" timestamp="1576151777849" />
+    <state width="2804" height="564" key="GridCell.Tab.1.bottom" timestamp="1576151777843">
+      <screen x="69" y="23" width="3771" height="1577" />
+    </state>
+    <state width="2804" height="564" key="GridCell.Tab.1.bottom/69.23.3771.1577@69.23.3771.1577" timestamp="1576151777843" />
+    <state width="2804" height="564" key="GridCell.Tab.1.center" timestamp="1576151777842">
+      <screen x="69" y="23" width="3771" height="1577" />
+    </state>
+    <state width="2804" height="564" key="GridCell.Tab.1.center/69.23.3771.1577@69.23.3771.1577" timestamp="1576151777842" />
+    <state width="2804" height="564" key="GridCell.Tab.1.left" timestamp="1576151777842">
+      <screen x="69" y="23" width="3771" height="1577" />
+    </state>
+    <state width="2804" height="564" key="GridCell.Tab.1.left/69.23.3771.1577@69.23.3771.1577" timestamp="1576151777842" />
+    <state width="2804" height="564" key="GridCell.Tab.1.right" timestamp="1576151777843">
+      <screen x="69" y="23" width="3771" height="1577" />
+    </state>
+    <state width="2804" height="564" key="GridCell.Tab.1.right/69.23.3771.1577@69.23.3771.1577" timestamp="1576151777843" />
+    <state x="431" y="522" key="com.intellij.ide.util.TipDialog" timestamp="1576079732701">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="431" y="522" key="com.intellij.ide.util.TipDialog/47.23.1393.877@47.23.1393.877" timestamp="1576079732701" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multiAgents.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pacman.py</url>
+          <line>733</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/multiagent$pacman.coverage" NAME="pacman Coverage Results" MODIFIED="1576094375038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
